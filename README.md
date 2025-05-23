@@ -14,3 +14,6 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
 - Express: Gerencia rotas e APIs para a comunicação entre front-en e back-end.
 - MySQL: Armazena dados das plantas, sensores e usuários logados de forma estruturada.
 
+## 🎮Instalação e Uso 
+
+#1. Clonar o repositório:
