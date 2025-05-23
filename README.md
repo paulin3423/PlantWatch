@@ -9,8 +9,8 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
 
 ## 🚀Tecnologias Utilizadas
 
-- Angular  
-- Node.js  
-- Express  
-- MySQL
+- Angular: Cria uma interface web interativa para o usuário.
+- Node.js: Executa o back-end em JavaScript com alta performace.
+- Express: Gerencia rotas e APIs para a comunicação entre front-en e back-end.
+- MySQL: Armazena dados das plantas, sensores e usuários logados de forma estruturada.
 
