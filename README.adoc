@@ -18,4 +18,4 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
 
 1. **Clonar o repositório:**
 
-  git clone https://github.com/seuusuario/plantwatch.git
+  git clone https://github.com/seu-usuario/plantwatch.git
