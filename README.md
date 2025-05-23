@@ -16,5 +16,6 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
 
 ## 🎮Instalação e Uso 
 
-#1. Clonar o repositório:
-git clone https://github.com/seuusuario/plantwatch.git
+1. **Clonar o repositório:**
+
+  git clone https://github.com/seuusuario/plantwatch.git
