@@ -37,7 +37,7 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
 
 == 📚Configurar as variáveis de ambiente
   
-Crie um arquivo .env com informações dos bancos de dados
+1. Crie um arquivo .env com informações dos bancos de dados
  
   BANCO DE DADOS:
  
