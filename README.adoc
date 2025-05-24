@@ -51,7 +51,7 @@ Crie um arquivo .env com informações dos bancos de dados
  
   PORT= 3000
 
-== ✉️Contato:
+== ✉️Contato
 
 * **Telefone**: 4002-8922
 * ** Email**: contato@plantwatch.com
