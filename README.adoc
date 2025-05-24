@@ -34,20 +34,19 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
 
 == 📚Configurar as variáveis de ambiente
   
-crie um arquivo .env com informações dos bancos de dados
+Crie um arquivo .env com informações dos bancos de dados
  
-BANCO DE DADOS:
+  BANCO DE DADOS:
  
-DB__HOST= localhost
+  DB__HOST= localhost
 
-DB_USUARIO= usuario_mysql
+  DB_USUARIO= usuario_mysql
  
-DB_SENHA= senha_mysql
+  DB_SENHA= senha_mysql
  
-DB_NOME= plantwatch_db
+  DB_NOME= plantwatch_db
  
-PORT= 3000
-
+  PORT= 3000
 
 == ✉️Contato:
 
