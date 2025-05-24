@@ -19,6 +19,8 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
 
 == 🎮Instalação e Uso 
 
+O TaskFlow oferece uma variedade de recursos para facilitar o gerenciamento de tarefas:
+
 1. **Clonar o repositório:**
 
   git clone https://github.com/seu-usuario/plantwatch.git
