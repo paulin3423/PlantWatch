@@ -39,7 +39,7 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
   
 Crie um arquivo .env com informações dos bancos de dados
  
-1. **BANCO DE DADOS:**
+1. **Banco de Dados:**
  
   DB__HOST= localhost
 
