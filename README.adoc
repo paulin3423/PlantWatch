@@ -37,9 +37,9 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
 
 == 📚Configurar as variáveis de ambiente
   
-1. Crie um arquivo .env com informações dos bancos de dados
+Crie um arquivo .env com informações dos bancos de dados
  
-  BANCO DE DADOS:
+1. **BANCO DE DADOS:**
  
   DB__HOST= localhost
 
