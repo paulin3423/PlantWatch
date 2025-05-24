@@ -38,7 +38,7 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
 == 📚Configurar as variáveis de ambiente
   
 Crie um arquivo .env com informações dos bancos de dados
- 
+ Insira as informações de conexão com o banco de dados e a porta da aplicação da seguinte forma:
 1. **Banco de Dados:**
  
   DB__HOST= localhost 
