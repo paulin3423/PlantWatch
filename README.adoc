@@ -49,6 +49,7 @@ DB_NOME= plantwatch_db
 PORT= 3000
 
 
-Contato:
-Telefone: 4002-8922
-Email: contato@plantwatch.com
+== ✉️Contato:
+
+* **Telefone**: 4002-8922
+* ** Email**: contato@plantwatch.com
