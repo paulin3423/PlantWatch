@@ -24,11 +24,11 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
 
   cd plantwatch 
 
-3.**Instalar dependências**
+3. **Instalar dependências**
 
   npm install
 
-4.**Configurar as variáveis de ambiente**
+== 📚Configurar as variáveis de ambiente
   
 crie um arquivo .env com informações dos bancos de dados
  
