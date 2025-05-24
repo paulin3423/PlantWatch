@@ -29,7 +29,7 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
   npm install
 
 4.**Configurar as variáveis de ambiente**
-crie um arquivo .env com informações dos bancos de dados
+  crie um arquivo .env com informações dos bancos de dados
   BANCO DE DADOS:
   DB__HOST= localhost
   DB_USUARIO= usuario_mysql
