@@ -12,7 +12,7 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
 
 == 🚀Tecnologias Utilizadas
 
-O TaskFlow foi desenvolvido utilizando as seguintes tecnologias:
+O PlantWatch foi desenvolvido utilizando as seguintes tecnologias:
 
 - Angular: Cria uma interface web interativa para o usuário.
 - Node.js: Executa o back-end em JavaScript com alta performace.
