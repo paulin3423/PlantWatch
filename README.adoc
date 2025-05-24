@@ -41,7 +41,11 @@ Crie um arquivo .env com informações dos bancos de dados
  
 1. **Banco de Dados:**
  
-  DB__HOST= localhost DB_USUARIO= usuario_mysql DB_SENHA= senha_mysql DB_NOME= plantwatch_db PORT= 3000
+  DB__HOST= localhost 
+  DB_USUARIO= usuario_mysql 
+  DB_SENHA= senha_mysql 
+  DB_NOME= plantwatch_db 
+  PORT= 3000
 
 == ✉️Contato
 
