@@ -10,7 +10,7 @@
 Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo maior controle e prevenindo problemas relacionados à falta de água, luz ou outras condições ambientais.
 
 
-== 🚀Tecnologias Utilizadas
+== 📦Tecnologias Utilizadas
 
 O PlantWatch foi desenvolvido utilizando as seguintes tecnologias:
 
