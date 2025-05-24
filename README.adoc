@@ -19,3 +19,25 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
 1. **Clonar o repositório:**
 
   git clone https://github.com/seu-usuario/plantwatch.git
+
+2. **Entrar na pasta do projeto:**
+  cd plantwatch 
+
+3.**Instalar dependências**
+  npm install
+
+4.**Configurar as variáveis de ambiente**
+crie um arquivo .env com informações dos bancos de dados
+  BANCO DE DADOS:
+  DB__HOST= localhost
+  DB_USUARIO= usuario_mysql
+  DB_SENHA= senha_mysql
+  DB_NOME= plantwatch_db
+  PORT= 3000
+
+5.**Rodar a aplicação**
+npm start
+
+Contato:
+Telefone: 4002-8922
+Email: contato@plantwatch.com
