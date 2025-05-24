@@ -12,14 +12,14 @@ Facilitar o cuidado de plantas para pessoas e pequenos negócios, garantindo mai
 
 == 🚀Tecnologias Utilizadas
 
+O TaskFlow foi desenvolvido utilizando as seguintes tecnologias:
+
 - Angular: Cria uma interface web interativa para o usuário.
 - Node.js: Executa o back-end em JavaScript com alta performace.
 - Express: Gerencia rotas e APIs para a comunicação entre front-en e back-end.
 - MySQL: Armazena dados das plantas, sensores e usuários logados de forma estruturada.
 
 == 🎮Instalação e Uso 
-
-O TaskFlow oferece uma variedade de recursos para facilitar o gerenciamento de tarefas:
 
 1. **Clonar o repositório:**
 
